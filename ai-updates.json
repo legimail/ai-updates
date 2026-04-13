@@ -1,0 +1,13 @@
+{
+  "domestic": [
+    {"date": "2026.04.10", "model": "Kimi", "note": "更新至 k1.5"},
+    {"date": "2026.03.15", "model": "DeepSeek", "note": "發布 V3 版本"},
+    {"date": "2026.03.01", "model": "千問", "note": "更新至 Qwen2.5"}
+  ],
+  "international": [
+    {"date": "2026.04.13", "model": "Claude", "note": "更新至 claude-sonnet-4.6"},
+    {"date": "2026.04.01", "model": "Gemini", "note": "更新至 Gemini 2.5"},
+    {"date": "2026.03.20", "model": "GPT", "note": "更新至 GPT-4.5"},
+    {"date": "2026.03.10", "model": "Grok", "note": "更新至 Grok 3"}
+  ]
+}
